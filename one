@@ -1,0 +1,12 @@
+
+$ python3 using_sys.py we are arguments
+Аргументы командной строки:
+using_sys.py
+we
+are
+arguments
+
+Переменная PYTHONPATH содержит ['', 'C:\\Windows\\system32\\python30.zip',
+'C:\\Python30\\DLLs', 'C:\\Python30\\lib',
+'C:\\Python30\\lib\\plat-win', 'C:\\Python30',
+'C:\\Python30\\lib\\site-packages']
